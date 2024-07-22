@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Roobert';
+  src: url('fonts/RoobertRegular.ttf') format('truetype');
+}
+body {
+  margin: 0;
+}
+* {
+  font-family: 'Roobert', sans-serif !important;
+  font-size: 14px;
+  scrollbar-color: '#383838 #21212100';
+}
